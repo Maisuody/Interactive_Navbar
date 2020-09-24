@@ -21,11 +21,11 @@ For specific, detailed instructions, look at the project instructions in the Uda
 
 This file is a stucture of this project; you can find main header that have all elements in navbar, then all sections that find in the page.
 
-##App.js
+## App.js
 
 Here's all function, that make our page more interactive and dynamic, there's a function that add elements in navbar dynamiclly and add to then the links to connect withallsections in the page, and make more function to make the navbar elements highlight whin i scroll or when i stand on thesection that refer to the element in navbar.
 
-##Styles.css
+## Styles.css
 
 you'll find in this project some styles and edits to make page interactive and makethe page more responsive.
 
